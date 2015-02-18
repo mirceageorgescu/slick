@@ -2,7 +2,7 @@
     "name": "slick-carousel-forked",
     "main": ["slick/slick.min.js", "slick/slick.css", "slick/slick-theme.css", "slick/fonts/*"],
     "version": "1.4.2",
-    "homepage": "https://github.com/kenwheeler/slick",
+    "homepage": "https://github.com/mirceageorgescu/slick",
     "authors": [
         "Ken Wheeler <ken_wheeler@me.com>"
     ],
