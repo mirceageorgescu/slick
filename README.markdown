@@ -1,6 +1,11 @@
 slick
 -------
 
+This is a fork that includes a pull request to allow reinit on specific slide.
+
+https://github.com/kenwheeler/slick/pull/839/
+https://github.com/kenwheeler/slick/issues/303
+
 [1]: <https://github.com/kenwheeler/slick>
 
 _the last carousel you'll ever need_
