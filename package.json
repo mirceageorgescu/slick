@@ -5,7 +5,7 @@
     "main": "slick/slick.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kenwheeler/slick.git"
+        "url": "https://github.com/mirceageorgescu/slick.git"
     },
     "keywords": [
         "carousel",
