@@ -1,6 +1,6 @@
 {
     "name": "slick-forked",
-    "repo": "kenwheeler/slick",
+    "repo": "mirceageorgescu/slick",
     "description": "the last carousel you'll ever need",
     "version": "1.4.2",
     "keywords": ["ui", "jquery", "carousel", "responsive", "slider"],
